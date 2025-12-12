@@ -25,7 +25,8 @@ I primarily work on **backend development**, using the MERN stack to build robus
 ### 🛠️ Tools & Tech
 
 * **MERN Stack:** MongoDB, Express, React, Node.js (with a focus on the backend)
-* **Core Tools:** VS Code, Docker
+* **Databases/Tools:** Redis(caching/message queue),VS Code, Docker
+* **Deployment:** Experience with **AWS** (Amazon Web Services)
 * **Design & Planning:** Figma for UI/UX exploration and planning
 
 ---
