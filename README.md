@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 I'm **Devraj Pasi**, a  **Student** at MNNNIT Allahabad focused on becoming a skilled developer.
 
-I primarily work on **backend development**, using the MERN stack to build robust and efficient applications. This profile is where I'll be uploading fresh, experimental, and challenging projects, all built from scratch to solidify my portfolio.
+I currently working on fullstack web development projects, using the MERN stack to build robust and efficient applications. This profile is where I'll be uploading fresh, experimental, and challenging projects, all built from scratch to solidify my portfolio.
 
 ---
 
 ### 🛠️ Tools & Tech
 
-* **MERN Stack:** MongoDB, Express, React, Node.js (with a focus on the backend)
+* **MERN Stack:** MongoDB, Express, React, Node.js 
 * **Databases/Tools:** Redis(caching/message queue),VS Code, Docker
 * **Deployment:** Experience with **AWS** (Amazon Web Services)
 * **Design & Planning:** Figma for UI/UX exploration and planning
