@@ -35,5 +35,5 @@ I currently working on fullstack web development projects, using the MERN stack 
 
 * **Gaming:** Currently into **COD Mobile**.
 * **Foodie:** Nothing beats a great plate of **Biryani**.
-* **Curiosity:** I enjoy **exploring** new places and technologies.
+* **Curiosity:** I enjoy **exploring** new technologies and reading tech blogs.
 
