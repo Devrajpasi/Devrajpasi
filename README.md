@@ -38,9 +38,5 @@ I currently working on fullstack web development projects, using the MERN stack 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
