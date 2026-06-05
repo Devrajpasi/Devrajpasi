@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hey there 👋
 
-I'm **Devraj Pasi**, a  **Student** at MNNNIT Allahabad focused on becoming a skilled developer.
+I'm Devraj Pasi — a student at MNNIT Allahabad with a deep focus on software engineering, backend systems, and AI.
 
-I currently working on fullstack web development projects, using the MERN stack to build robust and efficient applications. This profile is where I'll be uploading fresh, experimental, and challenging projects, all built from scratch to solidify my portfolio.
+I build full-stack applications using the MERN stack, architect distributed backends with  RabbitMQ, and Docker, and explore agentic AI — systems where LLMs don't just respond, they act. My projects range from real-time analytics platforms to AI-integrated web apps, all built from scratch.
+Currently interested in LLM tooling, multi-agent systems, and backend infrastructure that handles scale.
 
 ---
 
