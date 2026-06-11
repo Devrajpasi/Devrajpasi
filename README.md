@@ -22,6 +22,13 @@ I build full-stack applications using the MERN stack, architect distributed back
 Currently interested in LLM tooling, multi-agent systems, and backend infrastructure that handles scale.
 
 ---
+## 🏆 Competitive Programming
+
+I enjoy the grind of problem solving — from greedy to graph theory.
+
+- **Codeforces** — [Specialist ](https://codeforces.com/profile/Centaurus)
+- **CodeChef** — [3-Star](https://www.codechef.com/users/devrajpasi)
+- **LeetCode** — [View Profile](https://leetcode.com/u/devrajrammanoharpasi/)
 
 
 ## 🌐 Socials:
