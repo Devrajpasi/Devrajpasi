@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hey there 👋
 
-I'm Devraj Pasi — a student at MNNIT Allahabad with a deep focus on software engineering, backend systems, and AI.
+I'm Devraj Pasi, a student at MNNIT Allahabad focused on backend engineering. I build backend systems using Node.js and Express, working with MongoDB, REST APIs, and WebSockets/Socket.IO for real-time features, and RabbitMQ for asynchronous, event-driven communication between services.
 
-I build full-stack applications using the MERN stack, architect distributed backends with  RabbitMQ, and Docker, and explore agentic AI — systems where LLMs don't just respond, they act. My projects range from real-time analytics platforms to AI-integrated web apps, all built from scratch.
-Currently interested in LLM tooling, multi-agent systems, and backend infrastructure that handles scale.
+I also work with Docker to containerize and run these systems, and spend time on the parts of a backend that make it actually work in practice — authentication, database design, and how services talk to each other.
+
+Alongside this, I explore AI systems - specifically LLM-based systems — a secondary interest I bring into some of my projects, built on top of the same backend foundations.
 
 ---
 ## 🏆 Competitive Programming
